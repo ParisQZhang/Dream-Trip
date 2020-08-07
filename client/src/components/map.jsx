@@ -4,7 +4,7 @@ import MapMarker from './map-marker';
 
 function SimpleMap({ uniquePlaces }) {
   let count = 0;
-  console.log('map', uniquePlaces);
+
   const defaultProps = {
     center: {
       lat: uniquePlaces[0].geometry.location.lat,
@@ -19,7 +19,7 @@ function SimpleMap({ uniquePlaces }) {
   const K_MARGIN_LEFT = 30;
 
   return (
-    <div style={{ height: '650px', width: '600px' }}>
+    <div style={{ height: '600px', width: '600px' }}>
       <GoogleMapReact
         bootstrapURLKeys={{ key: process.env.REACT_APP_API_KEY }}
         defaultCenter={defaultProps.center}

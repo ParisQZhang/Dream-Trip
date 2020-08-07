@@ -31,8 +31,8 @@ export default function ItineraryCard({
   const duration = tripDuration();
   const days = [];
 
-  for (let i = 1; i <= duration; i++) {
-    days.push(i);
+  for (let i = 0; i <= duration; i++) {
+    days.push(i + 1);
   }
 
   const handleChange = (event) => {

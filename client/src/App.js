@@ -37,7 +37,7 @@ function App({ categoryStates }) {
   const tripDuration = () => {
     const momentStart = moment(startDate);
     const momentEnd = moment(endDate);
-    return momentEnd.diff(momentStart, 'days') + 1;
+    return momentEnd.diff(momentStart, 'days');
   };
 
   const loadPlaces = () => {
