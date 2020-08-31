@@ -10,6 +10,10 @@ Three other developers took this project further by adding authentication, drag 
 - Rushabh Mehta - [Github](https://github.com/RushabhM2) - [LinkedIn](www.linkedin.com/in/RushabhM2)
 - Sara Gomez - [Github](https://github.com/sara-gg) - [LinkedIn](https://www.linkedin.com/in/sara-samain-27721244/)
 
+# Original Project User Journey:
+
+![User Journey](/__screenshots/image.png)
+
 # Getting Started
 
 The app runs on a React front end using Google Maps Javascript API and the Google Places API to render maps and coordinates. The backend runs on express. The first thing you'll need to get started is a Google API Key.
@@ -40,10 +44,6 @@ The App uses Google's places API. You'll need to get a key to have the app runni
 2. Start the front end with
    <pre><code>npm start</code></pre>
    The app should open in your browser at localhost:3000 (The default React PORT)
-
-# Original Project User Journey:
-
-![User Journey](/image.png)
 
 # Added functionality from original project
 
