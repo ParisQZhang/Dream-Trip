@@ -43,7 +43,7 @@ The App uses Google's places API. You'll need to get a key to have the app runni
 
 # Original Project User Journey:
 
-![Sign In](/__allImage/image.png)
+![Sign In](/image.png)
 
 # Added functionality from original project
 
