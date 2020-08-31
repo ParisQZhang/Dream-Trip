@@ -30,7 +30,6 @@ exports.getPlaces = async (req, res) => {
       allResults = [...allResults, ...results.results];
     }
     const allResultsSet = new Set(allResults);
-    console.log(allResultsSet);
     res.send(
       [...allResultsSet]
         .filter(
