@@ -2,7 +2,7 @@
 
 DreamTrip is a ReactJS app built for planning trips and building iteneraries, the main features are place recommendations and visualization of locations on Google Map for easy itinerary planning.
 
-This Project was originally bult by myself (Paris Zhang ([Github](https://github.com/ParisQZhang) - [LinkedIn](https://www.linkedin.com/in/paris-qing-zhang/))).
+This Project was originally built by myself (Paris Zhang ([Github](https://github.com/ParisQZhang) - [LinkedIn](https://www.linkedin.com/in/paris-qing-zhang/))).
 
 Three other developers took this project further by adding authentication, drag and drop, and email functionalities as well as testing, these extra functionalities are also included in this README file. The working repository for their project is [amantoniazzi/Dream-Trip](https://github.com/amantoniazzi/Dream-Trip), and the three developers are listed below:
 
