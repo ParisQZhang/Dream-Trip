@@ -15,7 +15,7 @@ Three other developers took this project further by adding authentication, drag 
 ![User Journey](/__screenshots/image.png)
 
 # 1-minute Demo
-[See the demo here 🙌] (https://www.canva.com/design/DAEJNuzSoJw/_6FzGBY3-enyMIJV5YirXQ/view?utm_content=DAEJNuzSoJw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[See the demo here 🙌](https://www.canva.com/design/DAEJNuzSoJw/_6FzGBY3-enyMIJV5YirXQ/view?utm_content=DAEJNuzSoJw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 # Getting Started
 
